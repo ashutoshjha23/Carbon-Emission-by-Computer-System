@@ -2,3 +2,5 @@ torch
 torchvision
 timm
 codecarbon
+matplotlib.pyplot
+pandas
