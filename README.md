@@ -1,0 +1,1 @@
+This project focuses on tracking and analyzing the carbon emissions associated with computer systems using the CodeCarbon library. CodeCarbon is a tool designed to measure and estimate the carbon footprint of machine learning models during their training and inference phases
